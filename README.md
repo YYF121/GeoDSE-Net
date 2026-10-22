@@ -16,16 +16,14 @@ The framework consists of three modules:
 
 ## Framework
 
-*The overall framework figure will be added here.*
+![Overall architecture of GeoDSE-Net](assets/Framework.png)
 
-<!-- Upload the framework figure to assets/framework.png, then uncomment the image line below. -->
-<!-- ![Overall architecture of GeoDSE-Net](assets/framework.png) -->
+## Contact
 
-## Release Status
+For questions regarding the paper or code, please contact:
 
-- [ ] Framework figure
-- [ ] Training and evaluation code
-- [ ] Trained weights
-- [ ] Usage instructions
+**Yifei Yin**  
+Beijing Institute of Technology  
+Email: 513843129@qq.com
 
-Trained model checkpoints will be provided in [`weights/`](weights/). Implementation details and usage instructions will be added with the code release.
+You are also welcome to open an issue in this repository.
